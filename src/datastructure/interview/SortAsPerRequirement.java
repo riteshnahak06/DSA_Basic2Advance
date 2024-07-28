@@ -22,7 +22,7 @@ public class SortAsPerRequirement {
             }
         }
 
-        //index is the pointer through which u increase index
+        //index is the pointer through which u increase index of array at present stage
         int index = 0;
         for (int i = 0; i < count4; i++) {
             arr[index++] = 4;
